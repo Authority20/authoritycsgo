@@ -1531,7 +1531,7 @@ SettingsTabCategoryMain:AddButton("Server Rejoin", function()
 end)
 
 SettingsTabCategoryMain:AddButton("Copy Discord Invite", function()
-	setclipboard("https://discord.gg/FdrQZ6sD5T")
+	setclipboard("https://discord.gg/EGPYzqKadJ")
 end)
 
 SettingsTabCategoryMain:AddButton("Copy Roblox Game Invite", function()
@@ -1639,21 +1639,21 @@ end)
 
 local SettingsTabCategoryCredits = SettingsTab:AddCategory("Credits", 2)
 
-SettingsTabCategoryCredits:AddLabel("Script - Pawel12d#0272")
+SettingsTabCategoryCredits:AddLabel("Script - YGN Yubi#1376")
 
-SettingsTabCategoryCredits:AddLabel("ESP - Modified Kiriot ESP")
+SettingsTabCategoryCredits:AddLabel("ESP - Robilem wlasne kurde..")
 
-SettingsTabCategoryCredits:AddLabel("UI Library - Modified Phantom Ware")
+SettingsTabCategoryCredits:AddLabel("UI Library - Zrobilem to w kilka minut xD")
 
 SettingsTabCategoryCredits:AddLabel("")
 
 SettingsTabCategoryCredits:AddLabel("Special Thanks To:")
 
-SettingsTabCategoryCredits:AddLabel("ny#2817")
+SettingsTabCategoryCredits:AddLabel("YoungThomasek#5434")
 
-SettingsTabCategoryCredits:AddLabel("neeX#3712")
+SettingsTabCategoryCredits:AddLabel("KajFix#0226")
 
-SettingsTabCategoryCredits:AddLabel("MrPolaczekPL#1884")
+SettingsTabCategoryCredits:AddLabel("And Authority 2.0")
 
 SettingsTabCategoryCredits:AddLabel("")
 
